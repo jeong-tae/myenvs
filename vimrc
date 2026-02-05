@@ -6,3 +6,4 @@ syntax on
 set expandtab
 highlight Comment term=Bold ctermfg=magenta
 set encoding=utf-8
+set hlsearch
